@@ -7,7 +7,7 @@ The Goru Ecommerce website is a modern and dynamic online store created using HT
 [![HTML](https://img.shields.io/badge/Built%20with-HTML-orange?style=flat-square&logo=html5)](https://www.w3.org/html/)
 [![CSS](https://img.shields.io/badge/Styled%20with-CSS-blue?style=flat-square&logo=css3&logoColor=blue)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript](https://img.shields.io/badge/Powered%20by-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![Bootstrap CSS](https://img.shields.io/badge/CSS%20framework-Bootstrap%20Css-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Bootstrap CSS](https://img.shields.io/badge/CSS%20framework-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
 [![Responsive Design](https://img.shields.io/badge/Responsive-Design-green?style=flat-square&logo=responsive-design)](https://en.wikipedia.org/wiki/Responsive_web_design)
 [![Modern Design](https://img.shields.io/badge/Modern-Design-lightgrey?style=flat-square&logo=design)](https://www.smashingmagazine.com/2019/04/modern-web-design-techniques/)
 [![Mobile-Friendly](https://img.shields.io/badge/Mobile-Friendly-brightgreen?style=flat-square&logo=mobile)](https://developers.google.com/web/fundamentals/design-and-ux/principles)
